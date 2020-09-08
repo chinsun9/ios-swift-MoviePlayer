@@ -16,6 +16,7 @@
 		4B41480A250614B600EC7188 /* south-africa.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B414808250614B600EC7188 /* south-africa.png */; };
 		4B41480B250614B600EC7188 /* south-korea.png in Resources */ = {isa = PBXBuildFile; fileRef = 4B414809250614B600EC7188 /* south-korea.png */; };
 		4B41480C2506299800EC7188 /* movie.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 4B4148072506148300EC7188 /* movie.mp4 */; };
+		4B41480E2507081800EC7188 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 4B41480D2507081800EC7188 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		4B4148072506148300EC7188 /* movie.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = movie.mp4; sourceTree = "<group>"; };
 		4B414808250614B600EC7188 /* south-africa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "south-africa.png"; sourceTree = "<group>"; };
 		4B414809250614B600EC7188 /* south-korea.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "south-korea.png"; sourceTree = "<group>"; };
+		4B41480D2507081800EC7188 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +50,7 @@
 			children = (
 				4B38184C25060FB500537EA4 /* MoviePlayer */,
 				4B38184B25060FB500537EA4 /* Products */,
+				4B41480D2507081800EC7188 /* .gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -143,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4B41480C2506299800EC7188 /* movie.mp4 in Resources */,
+				4B41480E2507081800EC7188 /* .gitignore in Resources */,
 				4B38185A25060FB700537EA4 /* LaunchScreen.storyboard in Resources */,
 				4B41480A250614B600EC7188 /* south-africa.png in Resources */,
 				4B38185725060FB700537EA4 /* Assets.xcassets in Resources */,
